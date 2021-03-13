@@ -2,4 +2,4 @@ echo "Hello Job"
 date
 cal
 echo "Bye Job"
-echo WEBHOOK TRIGGER TEAT"
+echo WEBHOOK TRIGGER "
